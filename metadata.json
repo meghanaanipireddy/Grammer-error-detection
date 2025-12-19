@@ -1,0 +1,5 @@
+{
+  "name": "LinguistAI - Syntactic Writing Assistant",
+  "description": "A sophisticated real-time grammar and writing assistant that performs deep syntactic analysis, tokenization, and POS tagging using Gemini AI.",
+  "requestFramePermissions": []
+}
